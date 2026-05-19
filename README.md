@@ -1,4 +1,4 @@
-# TileVenia
+# 🎮 TileVenia
 This is an adventure 2D platformer game made with unity.
 <img width="938" height="452" alt="Tilevenia" src="https://github.com/user-attachments/assets/b0236aed-9d97-408f-8301-d6407c9732cd" />
 
